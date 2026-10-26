@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. This repository contains 2 branches: Automatization and Security 
 
 <!--
 **AutomySeg/Automyseg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
